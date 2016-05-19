@@ -1,0 +1,15 @@
+{
+  "name": "grimmlink/sortable",
+  "description": "Shim repository for Sortable",
+  "keywords": [
+    "sortable",
+    "reorder",
+    "drag",
+    "meteor",
+    "angular",
+    "ng-sortable",
+    "react",
+    "mixin"
+  ],
+  "license": "MIT"
+}
